@@ -1,0 +1,26 @@
+{
+  "title": "R&B Slow Jam Keys",
+  "study": "rsk01",
+  "bpm": 72,
+  "source_audio": "preview/rnb-slow-jam-keys-simple-synth-preview.mp3",
+  "source_audio_sha256": "aa73a4cac90b12e65b46e6ff71431cf8e54dacf37dbdafd15af6611aee1bcf60",
+  "source_midi": "midi/rsk01-rose-room/rsk01-rose-room-combined.mid",
+  "source_midi_sha256": "1fa5d16fa7188041d9c727788443b5a2f4655c57229a31bb955ddec676b98831",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "bedafcac271f2f80144054a1b41a4b8fb15792da61d748f5fc995c63b75594f2",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "c6fc58641bf77270ecf221ae9c6eb9c3deaf9ce46ac751ebdd71e35b4a1613c0",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "ab8bab42b98665ecf3ecbc6d0915a1c00f2e772decba6f2975eb44a992fad842",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

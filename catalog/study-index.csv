@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+rsk01,Rose Room,pack-local equal-tempered pitch collection,C,72,4/4,480,32,61440,midi/rsk01-rose-room/rsk01-rose-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+rsk02,Low Lamp,pack-local equal-tempered pitch collection,D#,72,4/4,480,32,61440,midi/rsk02-low-lamp/rsk02-low-lamp-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+rsk03,Soft Answer,pack-local equal-tempered pitch collection,F#,72,4/4,480,32,61440,midi/rsk03-soft-answer/rsk03-soft-answer-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+rsk04,Late Home,pack-local equal-tempered pitch collection,C#,72,4/4,480,32,61440,midi/rsk04-late-home/rsk04-late-home-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
