@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/rnb-slow-jam-keys-simple-synth-preview.mp3",
-  "preview_sha256": "aa73a4cac90b12e65b46e6ff71431cf8e54dacf37dbdafd15af6611aee1bcf60",
+  "preview_sha256": "60d6c1417fe7ef8c7921318b041866d65930106a3e3c0d09ada418d084f6e415",
   "source_midi_path": "midi/rsk01-rose-room/rsk01-rose-room-combined.mid",
-  "source_midi_sha256": "1fa5d16fa7188041d9c727788443b5a2f4655c57229a31bb955ddec676b98831",
+  "source_midi_sha256": "1f8dbcd5354828baf0f216033ee4c5bb4d9c9abfda3692126fca91e71828ceaf",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 106.667
   },
   "measurement": {
-    "sample_peak": 0.14611,
+    "sample_peak": 0.163507,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

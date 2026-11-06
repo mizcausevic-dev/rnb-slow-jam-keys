@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:39:26.271280+00:00",
+  "run_time_utc": "2026-11-06T19:04:15.326550+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/rsk01-rose-room/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "72520bed9681dd29e0f3766e4a0684057fb6754fdc20b59ecfb1939f69ce1c31",
+      "bytes": 714,
+      "sha256": "38d008e73d66577034800466df4a62916a3e723ab9cb3d6d6237a1213216139e",
       "errors": []
     },
     {
       "path": "midi/rsk01-rose-room/rsk01-rose-room-combined.mid",
-      "bytes": 4159,
-      "sha256": "1fa5d16fa7188041d9c727788443b5a2f4655c57229a31bb955ddec676b98831",
+      "bytes": 4382,
+      "sha256": "1f8dbcd5354828baf0f216033ee4c5bb4d9c9abfda3692126fca91e71828ceaf",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/rsk02-low-lamp/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "054e79df940d2d0e1ab5c78dd0cd806ababa8b2f81d7799399bad94235e79bb9",
+      "bytes": 711,
+      "sha256": "c3222e5dd5f7627b990e5d7c9435d95e45763e88d73f1c0b4c89c777c1a73bc5",
       "errors": []
     },
     {
       "path": "midi/rsk02-low-lamp/rsk02-low-lamp-combined.mid",
-      "bytes": 4158,
-      "sha256": "10915afb0ee4dcd04b855c5aaded83e0d05cb7ca7306d559f3a70364eaa86bfa",
+      "bytes": 4379,
+      "sha256": "28a55061e6484adb4520a4e782f8ab2a27c3ee9d51df4b9781e6dde69ba02e88",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/rsk03-soft-answer/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "534e168d6bafb7fd084fcfd7ab520f164ce604535de882b55b6928006ec6c8f3",
+      "bytes": 696,
+      "sha256": "aa9dea1ae01a09225ecd79f91e2ebaa42eb0a209554e46c2f0aba14aadd45193",
       "errors": []
     },
     {
       "path": "midi/rsk03-soft-answer/rsk03-soft-answer-combined.mid",
-      "bytes": 4138,
-      "sha256": "41b853d10450b8429f603c7d88adebd9283d443a589b28ef4bf78fb1667284db",
+      "bytes": 4364,
+      "sha256": "d066e2309986118ad7cf3ea6284abf50c62ade3327a1c469233b4934ae3f1f1c",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/rsk04-late-home/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "723702e689962ff81ff939e36d3e068cd7518c68de4859efc3bae95a48e4f6e7",
+      "bytes": 694,
+      "sha256": "9b40957c11048850d4fe6865bfebad329be5c0d4576b519a24076218c0e41b44",
       "errors": []
     },
     {
       "path": "midi/rsk04-late-home/rsk04-late-home-combined.mid",
-      "bytes": 4138,
-      "sha256": "673d7767636b20e58841fb187f05d9e6160ef06e4c1d294fe2f641080a3c02ba",
+      "bytes": 4362,
+      "sha256": "c727010b4e7cad27f05802f658e2fe49fefb41ac5575fc6cef6e61bc2a5199d5",
       "errors": []
     },
     {

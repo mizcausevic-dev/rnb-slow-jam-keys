@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 68048,
-      "sha256": "bedafcac271f2f80144054a1b41a4b8fb15792da61d748f5fc995c63b75594f2"
+      "bytes": 72456,
+      "sha256": "f0656f2bab4013ad69022df7f621a0055e94cffe8079d7f5009c220f082e2544"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 373,
-      "sha256": "924c314e88c489a3a8238cd52e848e5459e4a6240db3811b3a75a27ebabd8ffe"
+      "sha256": "89dc32feac9f7ff50a24f860d509f751825c744d6d9819aca0c8a34a308df4fe"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,8 +108,8 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "7bdca08d791b737298fede10948f2ab490cde8a1d3b23abae512f274372ae3c1"
     },
     {
       "path": "clips/rsk01-chord-progression-01.mid",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/rnb-slow-jam-keys-midi.zip",
-      "bytes": 25933,
-      "sha256": "20c8ce0535d4a28de12097a965c5e8a7da9a46786cef8e100a412481d2d5812b"
+      "bytes": 27921,
+      "sha256": "975cc64dd3d652345400b001a90605cbb20313da8f1c251c98aee8e16e98a0fd"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2404,
-      "sha256": "e807a5dbb63b20f1917c7afa22bbe5f2141e10fd9054bf2d589added2fab3abc"
+      "bytes": 2423,
+      "sha256": "bdcdd235c1dcf81c33c83f52de39595052f89cdaaeaaa03f09088df55bc3859d"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 689412,
-      "sha256": "ab8bab42b98665ecf3ecbc6d0915a1c00f2e772decba6f2975eb44a992fad842"
+      "bytes": 691945,
+      "sha256": "4c77db63c346d1bd833ee3c176c3eea5cb59c0943cd3e5db15953866eb3517be"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1169,
-      "sha256": "a8cdd978139e69b0079c46936b23ea1073c071c738f20cb4d8a9e11e87d0e3f6"
+      "bytes": 1195,
+      "sha256": "b345aa82832851e21fc460e8eae83df6bc383b754ef5135ce228a32732a38e74"
     },
     {
       "path": "index.html",
-      "bytes": 9451,
-      "sha256": "4ec67b99f60da423b65fadf0dca8a461e55682b3d768401703702d2c54f361e2"
+      "bytes": 9668,
+      "sha256": "2e68f0322dc97e8412065b29550432cc396c3b477b8bf144a589324f02191e27"
     },
     {
       "path": "midi/rsk01-rose-room/chord_pulse.mid",
@@ -253,13 +253,13 @@
     },
     {
       "path": "midi/rsk01-rose-room/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "72520bed9681dd29e0f3766e4a0684057fb6754fdc20b59ecfb1939f69ce1c31"
+      "bytes": 714,
+      "sha256": "38d008e73d66577034800466df4a62916a3e723ab9cb3d6d6237a1213216139e"
     },
     {
       "path": "midi/rsk01-rose-room/rsk01-rose-room-combined.mid",
-      "bytes": 4159,
-      "sha256": "1fa5d16fa7188041d9c727788443b5a2f4655c57229a31bb955ddec676b98831"
+      "bytes": 4382,
+      "sha256": "1f8dbcd5354828baf0f216033ee4c5bb4d9c9abfda3692126fca91e71828ceaf"
     },
     {
       "path": "midi/rsk01-rose-room/sub_bass.mid",
@@ -288,13 +288,13 @@
     },
     {
       "path": "midi/rsk02-low-lamp/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "054e79df940d2d0e1ab5c78dd0cd806ababa8b2f81d7799399bad94235e79bb9"
+      "bytes": 711,
+      "sha256": "c3222e5dd5f7627b990e5d7c9435d95e45763e88d73f1c0b4c89c777c1a73bc5"
     },
     {
       "path": "midi/rsk02-low-lamp/rsk02-low-lamp-combined.mid",
-      "bytes": 4158,
-      "sha256": "10915afb0ee4dcd04b855c5aaded83e0d05cb7ca7306d559f3a70364eaa86bfa"
+      "bytes": 4379,
+      "sha256": "28a55061e6484adb4520a4e782f8ab2a27c3ee9d51df4b9781e6dde69ba02e88"
     },
     {
       "path": "midi/rsk02-low-lamp/sub_bass.mid",
@@ -323,13 +323,13 @@
     },
     {
       "path": "midi/rsk03-soft-answer/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "534e168d6bafb7fd084fcfd7ab520f164ce604535de882b55b6928006ec6c8f3"
+      "bytes": 696,
+      "sha256": "aa9dea1ae01a09225ecd79f91e2ebaa42eb0a209554e46c2f0aba14aadd45193"
     },
     {
       "path": "midi/rsk03-soft-answer/rsk03-soft-answer-combined.mid",
-      "bytes": 4138,
-      "sha256": "41b853d10450b8429f603c7d88adebd9283d443a589b28ef4bf78fb1667284db"
+      "bytes": 4364,
+      "sha256": "d066e2309986118ad7cf3ea6284abf50c62ade3327a1c469233b4934ae3f1f1c"
     },
     {
       "path": "midi/rsk03-soft-answer/sub_bass.mid",
@@ -358,13 +358,13 @@
     },
     {
       "path": "midi/rsk04-late-home/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "723702e689962ff81ff939e36d3e068cd7518c68de4859efc3bae95a48e4f6e7"
+      "bytes": 694,
+      "sha256": "9b40957c11048850d4fe6865bfebad329be5c0d4576b519a24076218c0e41b44"
     },
     {
       "path": "midi/rsk04-late-home/rsk04-late-home-combined.mid",
-      "bytes": 4138,
-      "sha256": "673d7767636b20e58841fb187f05d9e6160ef06e4c1d294fe2f641080a3c02ba"
+      "bytes": 4362,
+      "sha256": "c727010b4e7cad27f05802f658e2fe49fefb41ac5575fc6cef6e61bc2a5199d5"
     },
     {
       "path": "midi/rsk04-late-home/sub_bass.mid",
@@ -378,18 +378,23 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1129,
-      "sha256": "cd4914c0b11134ac3e35425a8722a1de2522ba663c8fe0f1777bcff465f6aa8c"
+      "bytes": 1130,
+      "sha256": "ebb3547c49aabc3845bfc310a99a661a0a20104b35e7d81dea0f325183fb64cf"
     },
     {
       "path": "preview/rnb-slow-jam-keys-simple-synth-preview.mp3",
       "bytes": 2573627,
-      "sha256": "aa73a4cac90b12e65b46e6ff71431cf8e54dacf37dbdafd15af6611aee1bcf60"
+      "sha256": "60d6c1417fe7ef8c7921318b041866d65930106a3e3c0d09ada418d084f6e415"
     },
     {
       "path": "README.md",
-      "bytes": 3869,
-      "sha256": "57a14dae3c0500c948a4adebab1277decf80eaa996fc5fb78b6285ad44f11b64"
+      "bytes": 4035,
+      "sha256": "8c86658f467f0d31f65ba499fbdb8132869e2a2676b66828cd2b4d04bdd56977"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 84788,
-      "sha256": "fc4907c2b751e4dd1f08cdd226a8cfe4d17663c84f82372becf683ce42b6195b"
+      "bytes": 85228,
+      "sha256": "66cb2d2be939ddc02b926379e070acb738a76a56aeaf8cebeeb77ded2cc3d9f5"
     },
     {
       "path": "tools/polish_release.py",
