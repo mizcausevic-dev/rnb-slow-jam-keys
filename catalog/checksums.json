@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/rnb-slow-jam-keys-midi.zip",
-      "bytes": 27921,
-      "sha256": "975cc64dd3d652345400b001a90605cbb20313da8f1c251c98aee8e16e98a0fd"
+      "bytes": 29672,
+      "sha256": "05622a99b871f1d5e92553a25def9d0a058142c98b69c9bc96e4adb9fc41b592"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9668,
-      "sha256": "2e68f0322dc97e8412065b29550432cc396c3b477b8bf144a589324f02191e27"
+      "bytes": 9858,
+      "sha256": "c71bc7c91146bbdbe3a25afc46a4be340895b55eef864f91c7eb555c5c36e106"
     },
     {
       "path": "midi/rsk01-rose-room/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "a10823263ed68fa7a8f1b75c2dc69b7c0bce612c08bf2a441a07965f9c3d514c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1130,
       "sha256": "ebb3547c49aabc3845bfc310a99a661a0a20104b35e7d81dea0f325183fb64cf"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4035,
-      "sha256": "8c86658f467f0d31f65ba499fbdb8132869e2a2676b66828cd2b4d04bdd56977"
+      "bytes": 4150,
+      "sha256": "e68d6647de7aead3d3bdceae50123cb532affd95838b20ad2f2acb7d2585628a"
     },
     {
       "path": "REVISION.md",
